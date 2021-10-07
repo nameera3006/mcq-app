@@ -32,7 +32,7 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 
 Clone the source code in your local machine and install the requirements by 
 
-installing ```the .war file in eclipse ide ```
+importing```the .war file in eclipse ide ``` by ```file>import``` in eclipse ide. ```Then click on the web folder and select WAR file```.
 
 Load ```mcq-app.sql``` on your data base by running
 
