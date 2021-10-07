@@ -35,10 +35,9 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 
 # Getting Started
 
-Clone the source code in your local machine and install the requirements by running
+Clone the source code in your local machine and install the requirements by 
 
-```load the .war file in eclipse ide 
-```
+```load the .war file in eclipse ide ```
 Load ```mcq-app.sql``` on your data base by running
 ```sql
 source mcq-app.sql
