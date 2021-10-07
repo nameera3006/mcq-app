@@ -22,11 +22,16 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 6.Question order shall be shuffled for each candidate appearing:heavy_check_mark:```Questions appering on the test are different for each user```
 
 
-# Admin Panel
+# Admin Panel 
+```http://localhost:8081/McqApp/admin.jsp```. The port number can be 8080 in your system .
 
 1. ```Login Page``` and ```OTP-Verification``` - An otp will be sent to mail-id which admin had used upon login.:heavy_check_mark:
 
 2. ```Dashboard``` - A dashboard is provided to admin only:heavy_check_mark: ``` functionalities such as create test, add questions , options and their respective answers. Also can view the result of all candidate ```.
+
+3. Option to add question in test pool, set number of question appear in test, set time:heavy_check_mark: ``` We have created the add question panel to store questions with thier respective answers. ``` 
+
+4. Page to view all submitted test results:heavy_check_mark: '''A table of all candidates will be displayed with their respective scores```.
 
 # Getting Started
 
