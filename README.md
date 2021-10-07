@@ -1,5 +1,5 @@
 # mcq_app
-This is an online assessment platform web application made using ```JSP-Servlet``` microframework along with ```MySQL```(MySQL Workbench) database in backend and in frontend ```Jinja``` templating along with ```Html,css``` and a bit of ```javascript``` is used.
+This is an online assessment platform web application made using ```JSP-Servlet``` microframework along with ```MySQL```(MySQL Workbench) database in backend and in frontend used ```Html,Css``` and a bit of ```javascript``` is used.
 
 
 
@@ -17,15 +17,10 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 
 4.Number of questions in the pool shall be more than questions displayed:heavy_check_mark:
 
-5.Set a time limit for the assessment (individual timer for a question/optional):heavy_check_mark:```Individual timer for each question.```
+5.A time limit for the assessment ():heavy_check_mark:```Timer is alloted for all questions at once.```
 
 6.Question order shall be shuffled for each candidate appearing:heavy_check_mark:```Questions appering on the test are different for each user```
 
-# Additional functionality
-
-1.```Login page``` - To take user's data.
-
-2.```user table``` - To store the data and scores of the user and the time of test submission.
 
 # Admin Panel
 
