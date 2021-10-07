@@ -37,10 +37,13 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 
 Clone the source code in your local machine and install the requirements by 
 
-```load the .war file in eclipse ide ```
+installing ```the .war file in eclipse ide ```
+
 Load ```mcq-app.sql``` on your data base by running
+
 ```sql
 source mcq-app.sql
+
 ```
 on your command line client or simply import ```mcq-app.sql``` in your MySQL Workbench
 
