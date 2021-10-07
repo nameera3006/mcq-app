@@ -27,7 +27,7 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 
 2.```user table``` - To store the data and scores of the user and the time of test submission.
 
-#Admin Panel
+# Additional functionality
 
 1. ```Login Page``` and ```OTP-Verification``` - An otp will be sent to mail-id which admin had used upon login.:heavy_check_mark:
 
