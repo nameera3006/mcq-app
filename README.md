@@ -23,7 +23,7 @@ This is an online assessment platform web application made using ```JSP-Servlet`
 
 
 # Admin Panel 
-```http://localhost:8081/McqApp/admin.jsp```. The port number can be 8080 in your system .
+```http://localhost:8081/McqApp/admin.jsp```. The port number can most preferably be 8080 in your system .
 
 1. ```Login Page``` and ```OTP-Verification``` - An otp will be sent to mail-id which admin had used upon login.:heavy_check_mark:
 
