@@ -55,7 +55,8 @@ Then edit ```ConnectionProvider.java``` file
 replace ```username``` and ```password```  with username,password and name of your localhost and database name, 
 replace ```port``` with port of your MySQL server.
 
-Connect server and start (```apache-tomcat-v9```)
+Connect server (```apache-tomcat-v9```) from ```Windows>Show View >Servers```
+or select your predefined server in ```Target Runtime ``` option at the time of creation.  
 
 Finally, save and run the application on the configured server.
 
